@@ -1,0 +1,24 @@
+{
+  "overview": "An ultra-premium investor landing page for Petverz, a pet identity + wallet + service ecosystem startup. Apple-level design with dark theme, neon blue accents, and smooth scroll storytelling across 11 narrative sections — from hero to investor CTA.",
+  "features": [
+    "Hero section with animated QR card mockup and glow effect",
+    "Problem → insight → solution narrative flow with SVG diagrams",
+    "Product demo with mobile UI mockups and 4-step flow",
+    "Market opportunity and business model sections with clean charts",
+    "Why Petverz Wins with layered architecture diagram",
+    "Phase roadmap timeline with neon connectors",
+    "Vision section with investor CTA",
+    "Dark theme (#0B0F1A) with neon blue (#00C6FF) accents throughout",
+    "Smooth scroll animations and section fade-in effects"
+  ],
+  "category": "showcase",
+  "tags": [
+    "landing-page",
+    "investor",
+    "startup",
+    "pettech",
+    "dark-theme",
+    "premium-design"
+  ],
+  "last_updated": "2026-04-19T05:43:45.297Z"
+}
